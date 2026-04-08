@@ -73,7 +73,7 @@ function UniqueNamesCreatorPrivacy() {
 
                     <li>
                         <h2>User Consent (EEA & GDPR)</h2>
-                        <p>AIf you are located in the European Economic Area (EEA), you may be asked to provide consent for personalized advertising in accordance with applicable privacy regulations.</p>
+                        <p>If you are located in the European Economic Area (EEA), you may be asked to provide consent for personalized advertising in accordance with applicable privacy regulations.</p>
                     </li>
 
                     <li>
