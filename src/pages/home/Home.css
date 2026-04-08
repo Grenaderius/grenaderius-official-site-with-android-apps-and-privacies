@@ -75,7 +75,7 @@
 
 
 .home-list-section-div {
-    width: 400px;
+    width: clamp(250px, 20vw, 400px);
     text-align: left !important;
     display: flex;
     margin-right: 21vw;
