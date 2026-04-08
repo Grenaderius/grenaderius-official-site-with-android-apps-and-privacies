@@ -1,0 +1,96 @@
+.unc-page {
+    left: 0;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+}
+
+    .unc-page h1 {
+        font-size: clamp(24px, 10vw, 94px);
+        padding-top: 310px;
+        margin-bottom: 0px;
+        padding-bottom: 280px;
+    }
+
+    .unc-page h2 {
+        font-size: 48px
+
+    }
+
+    .unc-page p {
+        font-size: 24px;
+        margin-top: 50px;
+        margin-bottom: 90px;
+    }
+
+    .unc-page img {
+        height: 400px;
+        width: 180px;
+        margin: 6px;
+        border: 1px solid  black;
+    }
+
+
+.unc-greeting {
+    text-align: center;
+    background-color: #D9D9D9;
+}
+
+    .unc-greeting p {
+        font-size: 34px;
+        margin-top: 0px;
+        padding-top: 0px;
+        padding-bottom: 90px;
+    }
+
+.unc-description {
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 90px;
+    margin-top: 90px;
+    overflow: hidden;
+}
+
+    .unc-description h2 {
+        padding-bottom: 0px !important;
+        margin-bottom: 0px !important;
+    }
+
+    .unc-description p {
+        padding-bottom: 0px !important;
+        margin-bottom: 0px !important;
+        word-break: break-word;
+        overflow-wrap: break-word;
+    }
+
+.unc-main {
+    justify-content: center;
+    text-align: center;
+    background-color: #D9D9D9;
+
+}
+
+.unc-settings {
+    justify-content: center;
+    text-align: center;
+}
+
+.unc-results {
+    justify-content: center;
+    text-align: center;
+    background-color: #D9D9D9;
+
+}
+
+.unc-more-possibilities {
+    justify-content: center;
+    text-align: center;
+
+}
+
+.unc-download {
+    justify-content: center;
+    text-align: center;
+    background-color: #D9D9D9;
+
+}

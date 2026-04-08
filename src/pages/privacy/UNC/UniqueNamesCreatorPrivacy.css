@@ -1,0 +1,64 @@
+.hero-policy-section {
+    justify-content: center;
+    text-align: center;
+    background-color: #D9D9D9;
+    width: auto;
+    left: 0;
+    height: clamp(180px, 30vw, 320px);
+}
+
+.hero-policy-section p {
+    font-size: clamp(14px, 1.5vw, 20px);
+    color: #87827A;
+    padding-top: 12px;
+}
+
+.hero-title {
+    font-size: clamp(28px, 6vw, 64px);
+    padding-top: clamp(40px, 9vw, 105px);
+    margin-bottom: 0px;
+}
+
+.hero-privacy-policy {
+    font-size: clamp(18px, 3vw, 36px);
+    padding-top: 12px;
+    color: #4E4C4C;
+    margin-bottom: 0px;
+}
+
+.policy {
+    margin-left: clamp(20px, 10vw, 200px);
+    margin-right: clamp(20px, 10vw, 200px);
+    padding-bottom: clamp(20px, 10vw, 90px);
+}
+
+.policy h1 {
+    font-size: clamp(28px, 5vw, 48px);
+    text-align: center;
+}
+
+.policy h2 {
+    font-size: clamp(20px, 3.5vw, 36px);
+}
+
+.policy p {
+    margin-left: clamp(10px, 5vw, 70px);
+    font-size: clamp(14px, 2vw, 24px);
+}
+
+.policy ul {
+    margin-left: clamp(20px, 6vw, 120px);
+    list-style-type: disc;
+}
+
+.policy li {
+    font-size: clamp(14px, 2vw, 25px);
+}
+
+.privacy-third-party-list li {
+    font-size: clamp(14px, 2vw, 24px);
+}
+
+.privacy-third-party-list p {
+    margin-left: 0px;
+}

@@ -1,0 +1,87 @@
+.main-home-container {
+    width: 100%;
+    left: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.home-container {
+    margin: 0;
+    text-align: center;
+}
+
+    .home-container h1{
+        font-size: 94px;
+        margin-top: 170px;
+    }
+
+    .home-container h2 {
+        font-size: 48px;
+    }
+
+    .home-container p {
+        font-size: 24px;
+        margin-top: 50px;
+        margin-bottom: 90px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .home-container a {
+        font-size: 20px;
+    }
+
+.home-hello {
+    font-size: 36px !important;
+    margin-top: 70px;
+    margin-bottom: 70px !important;
+}
+
+.home-my-apps-section {
+    background-color: #D9D9D9;
+    left: 0;
+    width: 100vw;
+    margin-top: 90px;
+    padding-bottom: 90px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+    .home-my-apps-section div {
+        text-align: center;
+    }
+
+    .home-my-apps-section h2 {
+        margin-top: 90px;
+        font-size: 48px;
+        margin-bottom: 10px;
+    }
+
+.home-find-me-section {
+    left: 0;
+    width: 100vw;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding-bottom: clamp(20px, 10vw, 90px);
+}
+
+    .home-find-me-section h2 {
+        margin-top: 90px;
+        font-size: 48px;
+        margin-bottom: 10px;
+    }
+
+
+.home-list-section-div {
+    width: 400px;
+    text-align: left !important;
+    display: flex;
+    margin-right: 21vw;
+}
+
+    .home-list-section-div li {
+        font-weight: 500;
+        font-size: 20px;
+    }

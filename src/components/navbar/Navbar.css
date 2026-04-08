@@ -1,0 +1,32 @@
+﻿.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    height: clamp(60px, 10vw, 100px);
+    padding: 0 clamp(10px, 4vw, 25px);
+}
+
+    .navbar p {
+        color: white !important;
+        font-family: sans-serif;
+    }
+
+.nav-left {
+    margin-left: 0;
+}
+
+.logo {
+    font-size: clamp(18px, 4vw, 36px);
+    font-weight: bold;
+}
+
+.nav-right {
+    display: flex;
+    gap: clamp(5px, 1vw, 5px);
+    margin-right: 40px;
+}

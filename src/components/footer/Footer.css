@@ -1,0 +1,19 @@
+.footer {
+    background-color: black;
+    color: white;
+    bottom: 0;
+    left: 0;
+    width: auto;
+    text-align: center;
+    height: 150px;
+    font-weight: bold;
+    padding-top: 1px;
+}
+
+.bot-text {
+    margin-top: 71px;
+}
+
+.footer p{
+    font-family: sans-serif;
+}
