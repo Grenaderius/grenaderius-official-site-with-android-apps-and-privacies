@@ -17,7 +17,7 @@ function Home() {
                         <div className="home-list-section-div">
                         
                             <ul>
-                                <li><a href="/app/UniqueNamesCreator">Unique Names Creator</a></li>
+                                <li><a href="https://grenaderius.github.io/grenaderius-official-site-with-android-apps-and-privacies/#/app/UniqueNamesCreator">Unique Names Creator</a></li>
                                 <li>Coming soon...</li>
                                 <li>Coming soon...</li>
                                 <li>Coming soon...</li>
